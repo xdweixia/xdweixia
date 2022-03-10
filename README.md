@@ -9,8 +9,6 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
+### 🤝🏻 &nbsp;Connect with Me <p align="center">
   <a href="mailto:xd.weixia@gmail.com">Email</a>
 </p>
