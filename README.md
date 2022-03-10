@@ -1,6 +1,7 @@
-### Hello, I'm [Wei Xia](https://github.com/xdweixia)
+### 😄 Hello, I'm [Wei Xia](https://github.com/xdweixia)
 
-- 🔭 I’m currently pursuing the Ph.D degree at the Xidian University.
+- 🌱 I’m currently pursuing the Ph.D degree at the Xidian University.
+- 🔭 My current research interests include Multi-modal learning, Representation learning, GNNs, Self-Supervised Learning.
 
 <p align="center">
 <a href="https://github.com/xdweixia">
