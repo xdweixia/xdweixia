@@ -11,7 +11,7 @@
 </a>
 </p>
 
-### 📫 &nbsp;Connect with Me 
+### 📫 Connect with Me 
 
 <p align="center">
   <a href="mailto:xd.weixia@gmail.com">Email</a>
